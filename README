@@ -1,0 +1,6 @@
+RMEXECS
+-------
+A simple Haskell program that checks the current directory for executable files,
+and removes any that it finds. 
+It is good for cleaning up directories filled with random test executables / .o
+files left over from compilation.
